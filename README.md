@@ -1,5 +1,5 @@
 ## Hi there 👋
-[url=https://osekai.net/profiles?user=37215257][img]https://osekai.net/profiles/img/banner.svg?id=37215257[/img][/url]
+
 
 
 <!--
