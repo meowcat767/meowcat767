@@ -1,7 +1,2 @@
-## Hi there 👋
+I am the master of the BBC micro:bits
 
-
-idk what to put here really
-go use something I made I guess. 
-
-dingus
