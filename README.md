@@ -20,13 +20,3 @@ We primarily work with:
 
 Want to reach out, collaborate, or just talk about osu! scores?  
 Visit [meowcat.site](https://meowcat.site) or drop a message.
-
-## License
-
-This project and all Nijika Softworks original work is © Nijika Softworks.  
-Feel free to fork, star, or contribute — just follow good vibes and proper attribution!
-
----
-
-Thank you for checking us out!  
-Keep coding, keep playing! 🐾
