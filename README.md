@@ -4,8 +4,7 @@ a dingus
 
 ## About
 
-Hi, I'm the lead developer behind Nijika Softworks. As a student, I love exploring new tech stacks and bringing ideas to life!  
-Our studio is all about blending fun, creativity, and technical excellence — whether it's web apps, games, or tools.
+Hi, I'm the lead developer behind Nijika Softworks. I mostly base myself in C# as well as engines like Ren'Py. 
 
 - **Website:** [meowcat.site](https://meowcat.site)
 - **Skills:** C#, HTML, JavaScript, CSS
