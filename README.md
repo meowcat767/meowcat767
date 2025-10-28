@@ -17,10 +17,7 @@ Hi, I'm the lead developer behind Nijika Softworks. I mostly base myself in C# a
 I primarily work with:
 - **C#** (desktop & web applications)
 - **HTML/CSS/JavaScript** (front-end and full-stack web development)
-## Contact
-
-Want to reach out, collaborate, or just talk about osu! scores?  
-Visit [meowcat.site](https://meowcat.site) or drop a message.
+- **Java** (learning)
 
 ## Stats
 ![meowcat767's Stats](https://github-readme-stats.vercel.app/api?username=meowcat767&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
