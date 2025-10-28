@@ -2,6 +2,8 @@
 
 a dingus
 
+![:name](https://count.getloli.com/@:meowcat767-gh?name=%3Ameowcat767-gh&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=0)
+
 ## About
 
 Hi, I'm the lead developer behind Nijika Softworks. I mostly base myself in C# as well as engines like Ren'Py. 
