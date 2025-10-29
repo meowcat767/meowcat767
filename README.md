@@ -21,5 +21,4 @@ I primarily work with:
 
 ## Stats
 ![meowcat767's Stats](https://github-readme-stats.vercel.app/api?username=meowcat767&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![meowcat767's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meowcat767&theme=vue-dark&hide_border=true)
 ![meowcat767's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meowcat767&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
