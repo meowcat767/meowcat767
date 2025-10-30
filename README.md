@@ -6,10 +6,10 @@ a dingus
 
 ## About
 
-Hi, I'm the lead developer behind Nijika Softworks. I mostly base myself in C# as well as engines like Ren'Py. 
+Hi, I'm the lead developer behind Nijika Softworks. I mostly base myself in Java as well as engines like Ren'Py. 
 
 - **Website:** [meowcat.site](https://meowcat.site)
-- **Skills:** C#, HTML, JavaScript, CSS
+- **Skills:** Java, HTML, JavaScript, CSS
 - **Fun fact:** When I'm not coding, I'm probably playing osu! 🎶
 
 ## Technologies
