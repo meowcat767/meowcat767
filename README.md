@@ -1,5 +1,4 @@
 # Meowcat767
 
-MOST WORK IS AT https://git.meowcat.site!
+i like java :<
 
-(Please note all repositories at git.meowcat.site will have a mirror here.)
