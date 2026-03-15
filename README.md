@@ -9,5 +9,4 @@ I am currently writing a mobile game with Java and Kotlin, and helping maintain 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=meowcat767)](https://git.io/streak-stats)  
 ![](https://raw.githubusercontent.com/meowcat767/github-stats/refs/heads/master/generated/overview.svg) ![](https://raw.githubusercontent.com/meowcat767/github-stats/refs/heads/master/generated/languages.svg)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=meowcat767&theme=radical)
 
