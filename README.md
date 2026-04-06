@@ -3,7 +3,6 @@
 
 Hello!
 I am a Web Developer (HTML, CSS and Spring Boot) and a Java Developer. 
-I am currently writing a mobile game with Java and Kotlin, and helping maintain Splamei's Rhythm+ client.
 
 ## Stats
 
