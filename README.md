@@ -1,8 +1,7 @@
 # Meowcat767
-![](https://raw.githubusercontent.com/meowcat767/contrib-snake-gen/refs/heads/output/github-contribution-grid-snake.svg)
 
 currently porting the osu!framework to Java.
-learning C/C++
+web developer
 
 ## Stats
 
