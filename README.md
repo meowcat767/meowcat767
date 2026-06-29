@@ -1,6 +1,6 @@
 # Meowcat767
 
-currently porting the osu!framework to Java.
+`string Languages = "C/C++, Java, PHP"`
 web developer
 
 ## Stats
