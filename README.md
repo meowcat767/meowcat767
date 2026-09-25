@@ -1,4 +1,5 @@
 # Meowcat767
+[![wakatime](https://wakatime.com/badge/user/dde58933-1038-4e79-920c-d923c92f1fa4.svg)](https://wakatime.com/@dde58933-1038-4e79-920c-d923c92f1fa4)
 
 `string Languages = "C/C++, Java, PHP"` <br>
 web developer
